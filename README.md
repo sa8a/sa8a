@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm sa8a（Saba）
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sa8a&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sa8a&theme=vue-dark&show_icons=true)](https://github.com/sa8a/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa8a&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa8a&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/sa8a/github-readme-stats)
 
 <!--
 **sa8a/sa8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
